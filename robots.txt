@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://beexavikoo.hangzhoujs.org/sitemap.xml
